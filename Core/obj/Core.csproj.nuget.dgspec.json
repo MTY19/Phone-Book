@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj": {}
+    "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj": {
+    "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\tahir.yildirim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\obj\\",
+        "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahir.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

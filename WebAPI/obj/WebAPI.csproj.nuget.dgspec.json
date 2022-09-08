@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Business\\Business.csproj": {
+    "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\tahir.yildirim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Business\\obj\\",
+        "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Business\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahir.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj": {
-                "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj"
+              "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj": {
+                "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj"
               }
             }
           }
@@ -76,22 +71,17 @@
         }
       }
     },
-    "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj": {
+    "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\tahir.yildirim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\obj\\",
+        "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahir.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -153,22 +143,17 @@
         }
       }
     },
-    "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\tahir.yildirim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahir.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -182,11 +167,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj"
+              "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj"
               },
-              "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj": {
-                "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj"
+              "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj": {
+                "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj"
               }
             }
           }
@@ -225,22 +210,17 @@
         }
       }
     },
-    "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj": {
+    "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj",
         "projectName": "Entitities",
-        "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj",
-        "packagesPath": "C:\\Users\\tahir.yildirim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\obj\\",
+        "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj",
+        "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahir.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -254,8 +234,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj"
+              "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj"
               }
             }
           }
@@ -294,22 +274,17 @@
         }
       }
     },
-    "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\tahir.yildirim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahir.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -323,8 +298,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Business\\Business.csproj"
+              "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Business\\Business.csproj"
               }
             }
           }

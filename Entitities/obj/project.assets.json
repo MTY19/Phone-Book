@@ -5878,26 +5878,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tahir.yildirim\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\MTY\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj",
+      "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj",
       "projectName": "Entitities",
-      "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\Entitities.csproj",
-      "packagesPath": "C:\\Users\\tahir.yildirim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Entitities\\obj\\",
+      "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\Entitities.csproj",
+      "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Entitities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tahir.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5911,8 +5904,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\tahir.yildirim\\source\\repos\\PhoneBook\\Core\\Core.csproj"
+            "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\MTY\\Source\\Repos\\PhoneBook\\Core\\Core.csproj"
             }
           }
         }
