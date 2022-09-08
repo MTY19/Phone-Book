@@ -1,0 +1,15 @@
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\bin\Debug\netcoreapp3.1\Entitities.dll
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\bin\Debug\netcoreapp3.1\Entitities.pdb
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\tahir.yildirim\source\repos\PhoneBook\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

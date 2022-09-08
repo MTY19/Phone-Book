@@ -1,0 +1,10 @@
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\tahir.yildirim\source\repos\PhoneBook\Core\obj\Debug\netcoreapp3.1\Core.pdb
