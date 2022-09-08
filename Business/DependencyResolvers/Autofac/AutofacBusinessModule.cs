@@ -14,9 +14,15 @@ namespace Business.DependencyResolvers.Autofac
     {
         protected override void Load(ContainerBuilder builder)
         {
-            builder.RegisterType<PhoneBookManager>().As<IPhoneBookService>();
+            #region person
+            builder.RegisterType<PersonManager>().As<IPersonService>();
             builder.RegisterType<EfPersonDal>().As<IPersonDal>();
-       
+            #endregion
+
+            #region personaddress
+            builder.RegisterType<PersonAddressManager>().As<IPersonAddressService>();
+            builder.RegisterType<EfPersonAddressDal>().As<IPersonAddressDal>();
+            #endregion
         }
     }
 }

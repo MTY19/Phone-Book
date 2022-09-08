@@ -9,11 +9,11 @@ using System.Text;
 
 namespace Business.Concrete
 {
-    public class PhoneBookManager:IPhoneBookService
+    public class PersonManager:IPersonService
     {
         public IPersonDal _personDal; 
 
-        public PhoneBookManager(IPersonDal personDal)
+        public PersonManager(IPersonDal personDal)
         {
             _personDal = personDal;
         }

@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Business.Abstract
 {
-    public interface IPhoneBookService
+    public interface IPersonService
     {
         #region Person
         IResult Add(Person person);
